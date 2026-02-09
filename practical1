@@ -1,0 +1,12 @@
+<html>
+<title>Practical 1</title>
+</html>
+<head>New tag and attributes for tags</head>
+<body bgcolor="pink">
+<h3>New tags- "p","br","u","b","i"</h3>
+<p>we will use the attributes - bgcolor,align</p>
+<p><b>Vivek p. Lokhande</b></p>
+<p><i>CS25060<i/></p>
+<p><u>Section - A CSE</u></p>
+<h3 align="center">We lerned about new<br> attributes and tags</h3>
+</body>
